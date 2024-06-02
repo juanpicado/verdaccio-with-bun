@@ -1,0 +1,10 @@
+{
+    "name": "@bun/verdaccio",
+    "description": "An example running verdaccio with Bun",
+    "scripts": {
+      "dev": "deno run --allow-env --allow-sys --allow-net --allow-read --allow-write main.ts"
+    },
+    "dependencies": {
+      "verdaccio": "5.31.0"
+    }
+  }

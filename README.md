@@ -1,6 +1,6 @@
 # Verdaccio with Bun (>1.1.12)
 
-Small example how to install dependencies from a private registry using verdaccio an [bun](https://bun.sh/).
+Small example how to install dependencies from a private registry using verdaccio with [bun](https://bun.sh/).
 
 - Install dependencies (verdaccio itself) from a private registry
 - Run verdaccio with `bun`
